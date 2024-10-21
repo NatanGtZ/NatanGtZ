@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/tree/master/icons/csharp">
+  <img align="center" alt="Natan-CSS" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/csharp">
 </div>
   
   ##
