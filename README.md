@@ -1,23 +1,23 @@
-### Hi!! Welcome To My Profile, My name is Natãn!
+
+<h1>Hi There! 👋</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-trennepohl-0575881b4/)](https://www.linkedin.com/in/natan-trennepohl-0575881b4/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https:)](https://example.com)
+[![Gmail Badge](https://img.shields.io/badge/-natantrennepohl@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natantrennepohl@gmail.com)](mailto:natantrennepohl@gmail.com)
 
 
-- 🔭 I’m currently working at IATec - Instituto Adventista de Tecnologia
-- 🌱 A FullStack Web Developer always working to improve myself
-- 💬 My E-mail is Natantrennepohl@gmail.com
+## My name is Natãn Trennepohl
+(C# | .NET | React JS | Next JS | Typescript | Javascript | AWS | HTML | CSS ) 🚀
+- 👩‍💻 Software Enginner @[IATec](https://iatec.com/pt/)
+- 🎓 Bachelor's degree in Computer Science
+- 🎓 Post Graduating in FullStack Development
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
 
-<div align="center">
-  <a href="https://github.com/NatanGtZ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanGtZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGtZ&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
-</div>
+<div align="left">
   
-  ##
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanGtZ&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
- <div>
-    <a href="https://instagram.com/natangtz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-   <a href="https://www.facebook.com/natan.trennepohl" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/></a>
-    <a href = "mailto:natantrennepohl@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-    <a href="https://www.linkedin.com/in/natan-trennepohl-0575881b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge& logo=linkedin&logoColor=white" target="_blank"/></a> 
-  </div>
+ </div>
   
   ![Snake animation](https://github.com/NatanGtZ/NatanGtZ/blob/output/github-contribution-grid-snake.svg)
